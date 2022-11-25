@@ -6,7 +6,11 @@
 
 書籍『[ゼロから作る Deep Learning](http://www.oreilly.co.jp/books/9784873117584/)』(オライリー・ジャパン発行)のサポートサイトです。本書籍で使用するソースコードがまとめられています。
 
-
+# for me
+- make new virtual environment : python3 -m venv .venv
+- activate virtual environment : source .venv/bin/activate
+- install requirement modules : python3 -m pip install -r requirements.txt
+- exit this project virtual environment : deactivate
 
 ## ファイル構成
 
